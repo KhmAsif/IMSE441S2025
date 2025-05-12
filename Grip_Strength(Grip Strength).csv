@@ -1,0 +1,25 @@
+Test,Grip Strength ,Height,Hours of Lifting  (per week),Hand Length ,Hand Breadth ,Wrist Circumfrence ,Age,Ethnicity,Education ,Gender 
+1,26.3,5'5,1.5,6.75,6.25,6.75,21,Hispanic ,Junior IE,Female 
+2,40.2,6'1,0,7.25,7.5,6,21,White ,Junior IE,Female 
+3,47.4,5'10,0,6.5,7.75,6.5,19,White ,Sophomore IE,Male
+4,44.6,5'10,7,7,7.25,6.25,20,Mexican ,Sophomore CNS,Male 
+5,40,5'11,5,8,8.5,6.75,20,Hispanic ,Sophomore CNS,Male 
+6,52.7,6'1,7,7.75,9,6.75,20,Hispanic ,Sophomore CNS,Male 
+7,34.3,6,0,7,8,5.75,22,White ,Junior IE,Male 
+8,31.8,5'4,0,6.75,6.5,6.25,20,White ,Junior IE,Female 
+9,30.2,5'7,5,7.25,7.25,6.25,20,White ,Sophomore CE,Female 
+10,34.9,5'3,6,6,7,6.75,19,White ,Freshman ME,Male
+11,44.7,5'7,8,7.25,6.75,8,18,Latino,Freshman ME,Male
+12,46.2,6'1,6,7.25,6.25,8.5,18,White ,Freshman ME,Male
+13,32.3,5'9,0,7,7.25,6,21,White ,Junior CE,Female 
+14,28.6,5'2,0,6.75,6.75,5.25,23,White ,Senior CE,Female 
+15,31.8,5'2,0,7,7,7.25,19,White ,Freshman Geology ,Female 
+16,33.9,5'6,3,7,7.25,6,23,White ,Senior Psychology,Female 
+17,29.8,5'4,0,7.5,6.75,5.75,19,White ,Freshman Architect,Female 
+18,52.4,6'4,4,7.5,8,7.25,20,White ,Sophomore Enviormental Engineering,Male
+19,71.1,6'1,5,7.5,9,7,24,White ,Senior IE,Male
+20,65.5,6'1,5,7.5,8,7,25,White ,Junior CE,Male
+21,33.1,5'7,0,6.75,7,6,21,White ,Junior Enviormental Engineering ,Female 
+22,49.9,5'10,2,7.25,7.5,6,21,Asian ,Junior IE,Male 
+23,58.2,6'2,4,7.5,7.75,7,18,White ,Freshman CS,Male
+24,51.8,6,0,7,7.25,6.6,21,White ,Junior CS,Male
