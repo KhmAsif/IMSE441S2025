@@ -1,0 +1,22 @@
+﻿Data Set 1,,,,,,,,,,
+,Hand Length (in.),Hand Breadth (in.),Wrist Circumference (in.),Height (ft.),Hours of Weight Lifting,Grip Strength,Ethnicity,Age (yrs.),Gender,Education
+1,8,4,7,5'10,3,37.8,Indian,21,M,High School Diploma
+2,7.5,4,6.5,5'9,1,34.5,White,21,F,High School Diploma
+3,7.5,3.5,6.5,6'0,4,40.3,White,20,M,High School Diploma
+4,9.5,4.5,8.5,6'4,6,50.5,Black,23,M,Bachelor's Degree
+5,6.5,3.5,5.5,5'4,0,31.2,White,22,F,Bachelor's Degree
+6,7,4,6.5,5'6,2,38.9,Black,24,F,Bachelor's Degree
+7,7.5,4,7,5'7,1,36.4,White,21,F,High School Diploma
+8,9,4.5,8,6'3,5,48.9,White,22,M,High School Diploma
+9,6,3,6,5'1,0,30.4,White,20,F,High School Diploma
+10,7,4,6,5'5,0,37.2,White,21,F,High School Diploma
+11,8,4,7.5,5'11,5,41.7,White,23,M,Bachelor's Degree
+12,7.5,4,6,5'8,2,35.3,Black,23,F,Bachelor's Degree
+13,9,5,8.5,6'5,8,54.6,Black,22,M,High School Diploma
+14,8,4,6.5,6'0,0,34.7,White,24,M,Bachelor's Degree
+15,8.5,4.5,7.5,6'2,4,43.1,White,21,M,High School Diploma
+16,7.5,4,7,5'11,5,45.6,White,21,M,High School Diploma
+17,6,3.5,6,5'5,1,34.9,White,23,F,Bachelor's Degree
+18,6.5,3.5,6.5,5'7,3,38.1,White,22,F,High School Diploma
+19,8,4,7,5'10,0,32.8,Black,24,F,Bachelor's Degree
+20,8,4,7,6'0,4,44.9,White,21,M,High School Diploma
